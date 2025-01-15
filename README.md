@@ -1,7 +1,10 @@
 </details>
 
-<img src="https://envs.sh/NZP.jpg">
-
+<img src="https://envs.sh/NZ_.jpg">
+<img src="https://envs.sh/NZj.jpg">
+<img src="https://envs.sh/NZc.jpg">
+<img src="https://envs.sh/NZZ.jpg">
+<img src="https://envs.sh/NZL.jpg">
 ## Deploy
 You can deploy this bot anywhere.
 
