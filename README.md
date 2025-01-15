@@ -1,5 +1,6 @@
-
 </details>
+
+<img src="https://envs.sh/NZP.jpg">
 
 ## Deploy
 You can deploy this bot anywhere.
